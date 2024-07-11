@@ -1,2 +1,2 @@
 # Resturant-review
-resturant review of zomato and swiggy
+resturant review of zomato VS swiggy
